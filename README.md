@@ -4,7 +4,7 @@
 
 The architecture for this network is shown below:
 
-<img src="assets/network_diagram">
+<img src="assets/network_diagram.png">
 
 ### Results
 
